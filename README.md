@@ -1,6 +1,6 @@
 # Gestor de Tareas Diarias
 
-Script batch para Windows que muestra tus tareas diarias al iniciar el sistema.
+Script batch para Windows que muestra tus tareas diarias al iniciar el sistema. Puedes incluir tareas en cualquier fecha y cada vez que inicies windows te va a recordar las tareas del día de hoy, por lo que no tendrás que recordar fechas importantes.
 
 ## Instalacion
 
